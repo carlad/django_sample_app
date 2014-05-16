@@ -1,0 +1,14 @@
+Django
+django-cache-machine
+django-celery
+django-dajaxice
+django-guardian
+django-kombu
+django-pagination
+django-sorting
+django-tastypie
+Fabric
+lxml
+pyst2
+South
+Sphinx
